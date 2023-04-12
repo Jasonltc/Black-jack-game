@@ -27,6 +27,7 @@ h1 {
     color: goldenrod;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bolder;
+    transition: all 1s ease-in;
 }
 
 .text-content {
@@ -38,6 +39,7 @@ h1 {
     line-height: 85px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
+    transition: all 1s ease-in; 
 }
 
 button {
@@ -53,4 +55,5 @@ button {
     cursor: pointer;
     border-radius: 2px;
     margin-inline: auto;
+    transition: all 1s ease-in;
 }
